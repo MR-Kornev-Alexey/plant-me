@@ -1,0 +1,3 @@
+[submodule "countries"]
+	path = countries
+	url = git@github.com:MR-Kornev-Alexey/countries.git

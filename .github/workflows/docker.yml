@@ -3,7 +3,7 @@ name: Docker Build and Push to GitHub Container Registry
 on:
   push:
     branches:
-      - main  # Или другая ветка, которую вы хотите отслеживать
+      - master  # Или другая ветка, которую вы хотите отслеживать
   pull_request:
     branches:
       - master  # Или другая ветка, на которую поступают PR

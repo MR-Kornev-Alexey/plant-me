@@ -92,14 +92,6 @@ function Main(){
                 </Text>
             </Flex>
 
-            <Text css={{
-                subhead2:"500",
-                color:"$onBg800",
-                paddingTop:"$2"
-            }}>
-            You will get 30-days free trial
-            </Text>
-
             <Flex justify={"end"} css={{
                 width:"100%",
                 // backgroundColor:"$onBg",

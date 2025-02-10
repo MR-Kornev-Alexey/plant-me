@@ -25,6 +25,7 @@ jobs:
           username: ${{ github.actor }}
           password: ${{ secrets.GITHUB_TOKEN }}
 
+
       # 3. Построение Docker-образа
       - name: Build Docker image
         run: |

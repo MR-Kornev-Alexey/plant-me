@@ -8,10 +8,16 @@ A simple landing page that developed by react with green theme.
 step1 :
 
 ```bash
-cd plant-me && npm install
-
+git clone https://github.com/MR-Kornev-Alexey/plant-me.git
+```
 
 step2 :
+
+```bash
+cd plant-me && npm install
+```
+
+step3 :
 
 ```bash
 npm run start

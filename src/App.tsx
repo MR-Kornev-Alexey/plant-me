@@ -24,8 +24,6 @@ function App() {
     }}>
       <Flex css={{"imgBg":""}}></Flex>
       <Flex css={{"meshBg":""}}></Flex>
-
-
       <Nav/>
       <Main/>
 
